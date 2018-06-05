@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526807465 source:c:\users\raluca\desktop\anulii\inteligentaartificiala\daa\main.cpp
+	<stdio.h>
+	<algorithm>
+	<vector>
+

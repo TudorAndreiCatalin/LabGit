@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1527873749 source:c:\users\tolgoi\desktop\dem\task_sch\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527963571 source:c:\users\dragos\desktop\task_sch\main.c
+	<stdio.h>
+	<stdlib.h>
+
